@@ -1,0 +1,1 @@
+This version improves the prayer listening experience: all voices have been re-recorded at an even volume, with new ambient sounds and a softer closing meditation bell. Gentle pauses and fades now separate the prayer, the music and the bell for a more peaceful moment. Daily reminders are also more reliable.

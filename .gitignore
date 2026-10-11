@@ -1,0 +1,21 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Fichiers de build
+app/build/
+
+# Keystore (ne jamais committer)
+*.jks
+*.keystore
+
+# Fichiers générés
+app/src/main/assets/databases/
+keystore.properties

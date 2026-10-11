@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "titleFr": "Je Vous Salue Marie — Version Âme",
+    "titleEn": "Hail Mary — Soul Version",
+    "theme": "Accueil & Protection",
+    "type": "traditionnelle",
+    "textFr": "Je vous salue Marie, pleine de grâce,\nLe Seigneur est avec vous.\nVous êtes bénie entre toutes les femmes\nEt Jésus, le fruit de vos entrailles, est béni.\n\nSainte Marie, Mère de Dieu,\nPrenez ma main dans les moments de doute,\nPosez votre manteau de lumière sur mes épaules\nQuand le froid du monde me pénètre.\n\nPriez pour moi, maintenant et à l'heure\nOù j'ai le plus besoin de paix.\n\nAmen.",
+    "textEn": "Hail Mary, full of grace,\nThe Lord is with you.\nBlessed are you among women\nAnd blessed is the fruit of your womb, Jesus.\n\nHoly Mary, Mother of God,\nTake my hand in moments of doubt,\nLay your mantle of light upon my shoulders\nWhen the cold of the world penetrates me.\n\nPray for me, now and at the hour\nWhen I most need peace.\n\nAmen.",
+    "durationMinutes": 3
+  },
+  {
+    "id": 2,
+    "titleFr": "Prière pour la Paix Intérieure",
+    "titleEn": "Prayer for Inner Peace",
+    "theme": "Paix & Sérénité",
+    "type": "originale",
+    "textFr": "Ô Marie, toi qui as gardé toutes ces choses\nEn les méditant dans ton cœur,\nApprends-moi l'art du silence habité.\n\nDans le bruit de mes pensées,\nDans l'agitation de mes journées,\nRappelle-moi que la paix ne se trouve pas\nAu bout du chemin —\nMais ici, maintenant, dans ce souffle.\n\nPose ta main sur mon cœur qui s'agite\nEt dis-lui : « Calme-toi. »\nComme tu l'aurais dit à l'enfant Jésus\nDans les nuits de Nazareth.\n\nQue ta paix descende en moi\nComme une pluie douce sur une terre assoiffée.\n\nAmen.",
+    "textEn": "O Mary, you who kept all these things\nMeditating upon them in your heart,\nTeach me the art of inhabited silence.\n\nIn the noise of my thoughts,\nIn the agitation of my days,\nRemind me that peace is not found\nAt the end of the path —\nBut here, now, in this breath.\n\nPlace your hand on my restless heart\nAnd tell it: \"Be still.\"\nAs you would have said to the child Jesus\nIn the nights of Nazareth.\n\nMay your peace descend upon me\nLike gentle rain on a thirsty earth.\n\nAmen.",
+    "durationMinutes": 5
+  },
+  {
+    "id": 4,
+    "titleFr": "Prière de Protection du Matin",
+    "titleEn": "Morning Protection Prayer",
+    "theme": "Protection & Guidance",
+    "type": "originale",
+    "textFr": "Marie, en ce nouveau matin,\nJe me confie à ton manteau bleu.\n\nGarde mon cœur ouvert à la beauté du jour.\nGarde mes yeux clairs pour voir\nLes signes que le ciel m'envoie.\nGarde mes mots doux\nEnvers moi-même et envers les autres.\n\nEnveloppe de ta lumière\nTous ceux que j'aime\nEt ceux que j'ai du mal à aimer.\n\nQue ce jour soit une prière vivante.\nQue chaque geste soit un acte d'amour.\nQue je me souvienne, dans les moments difficiles,\nQue tu marches à mon côté.\n\nAmen.",
+    "textEn": "Mary, in this new morning,\nI entrust myself to your blue mantle.\n\nKeep my heart open to the beauty of the day.\nKeep my eyes clear to see\nThe signs heaven sends me.\nKeep my words gentle\nToward myself and toward others.\n\nWrap in your light\nAll those I love\nAnd those I find it hard to love.\n\nMay this day be a living prayer.\nMay every gesture be an act of love.\nMay I remember, in difficult moments,\nThat you walk by my side.\n\nAmen.",
+    "durationMinutes": 3
+  },
+  {
+    "id": 5,
+    "titleFr": "Prière pour la Guérison",
+    "titleEn": "Prayer for Healing",
+    "theme": "Guérison & Santé",
+    "type": "originale",
+    "textFr": "Ô Marie, Santé des malades,\nPose tes mains lumineuses sur mon corps,\nSur mon âme,\nSur tout ce qui souffre en moi.\n\nTu connais la douleur —\nCelle du corps qui fatigue,\nCelle du cœur qui se brise,\nCelle de l'âme qui doute.\n\nIntercède pour moi auprès de Celui\nQui a guéri d'une seule parole.\nDis-lui que j'ai besoin\nNon seulement de santé du corps\nMais de paix de l'esprit.\n\nQue ta lumière bleue traverse\nChaque cellule de mon être\nEt y répande la santé divine.\n\nJe me remets entre tes mains\nAvec confiance et amour.\n\nAmen.",
+    "textEn": "O Mary, Health of the sick,\nPlace your luminous hands upon my body,\nUpon my soul,\nUpon everything that suffers within me.\n\nYou know pain —\nThat of the body that tires,\nThat of the heart that breaks,\nThat of the soul that doubts.\n\nIntercede for me with the One\nWho healed with a single word.\nTell him that I need\nNot only health of body\nBut peace of mind.\n\nMay your blue light pass through\nEvery cell of my being\nAnd spread divine health within.\n\nI place myself in your hands\nWith trust and love.\n\nAmen.",
+    "durationMinutes": 7
+  },
+  {
+    "id": 6,
+    "titleFr": "Prière du Soir — Remise du Jour",
+    "titleEn": "Evening Prayer — Offering the Day",
+    "theme": "Soir & Repos",
+    "type": "originale",
+    "textFr": "Marie, la nuit descend doucement\nEt je reviens à toi\nAvec tout ce que ce jour m'a apporté.\n\nJe te remets ce qui s'est bien passé\nAvec gratitude.\nJe te remets ce qui m'a blessé\nAvec espoir.\nJe te remets ce que j'ai raté\nSans me condamner.\n\nGarde dans ta lumière\nTous ceux que j'aime\nPendant que je dors.\n\nQue cette nuit me régénère\nEn corps, en âme et en esprit.\nEt qu'au matin,\nJe me réveille prêt à aimer encore.\n\nVeille sur mes rêves, Marie.\nJe m'endors dans ta paix.\n\nAmen.",
+    "textEn": "Mary, the night descends gently\nAnd I return to you\nWith everything this day has brought me.\n\nI entrust to you what went well\nWith gratitude.\nI entrust to you what wounded me\nWith hope.\nI entrust to you what I failed at\nWithout condemning myself.\n\nKeep in your light\nAll those I love\nWhile I sleep.\n\nMay this night regenerate me\nIn body, soul, and spirit.\nAnd at morning,\nMay I wake ready to love again.\n\nWatch over my dreams, Mary.\nI fall asleep in your peace.\n\nAmen.",
+    "durationMinutes": 5
+  },
+  {
+    "id": 7,
+    "titleFr": "Prière pour Lâcher-Prise",
+    "titleEn": "Prayer for Letting Go",
+    "theme": "Abandon & Confiance",
+    "type": "originale",
+    "textFr": "Marie, tu as dit « oui »\nSans savoir où ce « oui » te mènerait.\nApprends-moi cet abandon confiant.\n\nJe tiens dans mes mains crispées\nDes situations que je ne peux pas contrôler,\nDes personnes que je veux changer,\nDes résultats que je veux forcer.\n\nApprends-moi à ouvrir les mains.\nApprends-moi à dire :\n« Que ta volonté soit faite »\nEt à le penser vraiment,\nPas avec résignation\nMais avec la foi de quelqu'un qui sait\nQue l'amour divin\nVoit plus loin que mes yeux.\n\nJe te confie tout ce que je contrôle trop.\nJe te confie tout ce que je ne contrôle pas assez.\nEt je respire.\n\nAmen.",
+    "textEn": "Mary, you said \"yes\"\nWithout knowing where that \"yes\" would lead you.\nTeach me this trusting surrender.\n\nI hold in my clenched hands\nSituations I cannot control,\nPeople I want to change,\nOutcomes I want to force.\n\nTeach me to open my hands.\nTeach me to say:\n\"Thy will be done\"\nAnd to truly mean it,\nNot with resignation\nBut with the faith of someone who knows\nThat divine love\nSees further than my eyes.\n\nI entrust to you everything I control too much.\nI entrust to you everything I control too little.\nAnd I breathe.\n\nAmen.",
+    "durationMinutes": 7
+  },
+  {
+    "id": 8,
+    "titleFr": "Memorare — Version Contemporaine",
+    "titleEn": "The Memorare — Contemporary Version",
+    "theme": "Secours & Intercession",
+    "type": "traditionnelle",
+    "textFr": "Souvenez-vous, ô Marie,\nQu'on n'a jamais entendu dire\nQue quelqu'un qui ait eu recours à vous\nAit été laissé sans secours.\n\nJe viens à vous aujourd'hui\nNon pas avec des mots parfaits\nNi avec une foi sans faille —\nMais avec ce cœur tel qu'il est,\nImparfait et sincère.\n\nEntendez ma prière.\nPas parce que je la mérite,\nMais parce que vous aimez\nMême les cœurs maladroits.\n\nRépondez à ce que je ne sais pas demander,\nDonnez-moi ce dont j'ai besoin\nPlutôt que ce que je crois vouloir.\n\nEn vous je me confie.\n\nAmen.",
+    "textEn": "Remember, O Mary,\nThat it has never been heard\nThat anyone who had recourse to you\nWas left without help.\n\nI come to you today\nNot with perfect words\nNor with unwavering faith —\nBut with this heart as it is,\nImperfect and sincere.\n\nHear my prayer.\nNot because I deserve it,\nBut because you love\nEven clumsy hearts.\n\nRespond to what I do not know how to ask,\nGive me what I need\nRather than what I believe I want.\n\nIn you I place my trust.\n\nAmen.",
+    "durationMinutes": 3
+  },
+  {
+    "id": 9,
+    "titleFr": "Prière pour la Famille",
+    "titleEn": "Prayer for the Family",
+    "theme": "Famille & Liens",
+    "type": "originale",
+    "textFr": "Marie, toi qui as formé une famille\nDans la foi, la simplicité et l'amour,\nPrends sous ta protection\nTous ceux que mon cœur appelle les siens.\n\nBénis ceux qui sont proches\nEt ceux qui se sont éloignés.\nTouche les cœurs fermés.\nRéchauffe les relations refroidies.\n\nLà où il y a des blessures,\nEnvoie ta grâce guérissante.\nLà où il y a des non-dits,\nInsuffle le courage de la vérité douce.\n\nFais de mon foyer\nUn espace où chacun peut être\nVraiment soi-même,\nVraiment aimé.\n\nQue ta lumière habite nos repas partagés,\nNos silences complices\nEt nos réconciliations courageuses.\n\nAmen.",
+    "textEn": "Mary, you who formed a family\nIn faith, simplicity, and love,\nTake under your protection\nAll those my heart calls its own.\n\nBless those who are close\nAnd those who have drifted away.\nTouch the closed hearts.\nWarm the cooled relationships.\n\nWhere there are wounds,\nSend your healing grace.\nWhere there are unspoken words,\nBreath in the courage of gentle truth.\n\nMake of my home\nA space where each person can be\nTruly themselves,\nTruly loved.\n\nMay your light inhabit our shared meals,\nOur complicit silences\nAnd our courageous reconciliations.\n\nAmen.",
+    "durationMinutes": 5
+  },
+  {
+    "id": 10,
+    "titleFr": "Prière pour Trouver sa Voie",
+    "titleEn": "Prayer to Find One's Way",
+    "theme": "Vocation & Chemin de vie",
+    "type": "originale",
+    "textFr": "Marie, tu as accueilli une vocation\nQui dépassait tout ce que tu aurais pu imaginer.\nGuide-moi vers la mienne.\n\nJe cherche ma place dans ce monde.\nJe cherche ce pour quoi mon âme est faite.\nParfois le chemin semble clair\nEt puis se brouille à nouveau.\n\nÉclaire ma lanterne intérieure.\nAide-moi à distinguer\nLa voix de ma peur\nDe la voix de mon âme.\n\nConduis-moi vers les personnes,\nLes expériences, les portes\nQui m'aideront à devenir\nCe que je suis vraiment venu être ici.\n\nEt quand je douterai —\nRappelle-moi ton « oui »,\nCe « oui » prononcé dans l'incertitude,\nCe « oui » qui a changé le monde.\n\nAmen.",
+    "textEn": "Mary, you welcomed a vocation\nThat surpassed all you could have imagined.\nGuide me toward mine.\n\nI am seeking my place in this world.\nI am seeking what my soul is made for.\nSometimes the path seems clear\nAnd then grows blurry again.\n\nLight my inner lantern.\nHelp me to distinguish\nThe voice of my fear\nFrom the voice of my soul.\n\nLead me toward the people,\nThe experiences, the doors\nThat will help me become\nWhat I truly came here to be.\n\nAnd when I doubt —\nRemind me of your \"yes\",\nThat \"yes\" spoken in uncertainty,\nThat \"yes\" that changed the world.\n\nAmen.",
+    "durationMinutes": 7
+  },
+  {
+    "id": 11,
+    "titleFr": "Prière du Chapelet de Lumière",
+    "titleEn": "Prayer of the Rosary of Light",
+    "theme": "Méditation & Contemplation",
+    "type": "traditionnelle",
+    "textFr": "Accompagne-moi, Marie,\nDans ce voyage de lumière.\n\nÀ chaque grain que je tiens dans ma main,\nJe te confie une inquiétude,\nJe te remets une personne que j'aime,\nJe dépose une prière sans mots.\n\nMystères joyeux :\nMerci pour les moments de joie simple\nQue tu places sur mon chemin.\n\nMystères lumineux :\nAide-moi à voir la lumière\nMême dans les zones d'ombre.\n\nMystères douloureux :\nTiens-moi dans mes épreuves\nComme tu as tenu les tiennes.\n\nMystères glorieux :\nRappelle-moi que toute fin\nEst un passage vers quelque chose de plus grand.\n\nGrain après grain,\nSouffle après souffle,\nJe reviens à l'essentiel.\n\nAmen.",
+    "textEn": "Accompany me, Mary,\nIn this journey of light.\n\nWith each bead I hold in my hand,\nI entrust you with a worry,\nI give you a person I love,\nI lay down a wordless prayer.\n\nJoyful mysteries:\nThank you for the simple moments of joy\nYou place on my path.\n\nLuminous mysteries:\nHelp me see the light\nEven in the areas of shadow.\n\nSorrowful mysteries:\nHold me in my trials\nAs you held yours.\n\nGlorious mysteries:\nRemind me that every ending\nIs a passage toward something greater.\n\nBead by bead,\nBreath by breath,\nI return to what is essential.\n\nAmen.",
+    "durationMinutes": 15
+  },
+  {
+    "id": 12,
+    "titleFr": "Prière pour Pardonner",
+    "titleEn": "Prayer for Forgiveness",
+    "theme": "Pardon & Libération",
+    "type": "originale",
+    "textFr": "Marie, toi qui as pardonné\nCe qui semblait impardonnable,\nDonne-moi cette grâce.\n\nJe tiens dans mon cœur\nUne blessure que quelqu'un m'a faite.\nJe n'arrive pas encore à la lâcher.\n\nJe ne te demande pas de la minimiser.\nJe ne te demande pas d'oublier.\nJe te demande juste\nDe m'aider à desserrer les doigts\nAutour de cette douleur.\n\nApprends-moi que pardonner\nN'est pas un cadeau que je fais à l'autre —\nC'est ma propre liberté\nQue je choisis de reprendre.\n\nToi qui as connu la douleur,\nToi qui as quand même aimé,\nMontre-moi le chemin\nDu pardon qui libère.\n\nJe suis prêt à commencer.\nMême un tout petit pas.\n\nAmen.",
+    "textEn": "Mary, you who forgave\nWhat seemed unforgivable,\nGive me this grace.\n\nI hold in my heart\nA wound someone gave me.\nI cannot yet let it go.\n\nI am not asking you to minimize it.\nI am not asking you to forget.\nI am simply asking you\nTo help me loosen my fingers\nAround this pain.\n\nTeach me that to forgive\nIs not a gift I give to the other —\nIt is my own freedom\nThat I choose to reclaim.\n\nYou who have known pain,\nYou who have loved nonetheless,\nShow me the path\nOf the forgiveness that liberates.\n\nI am ready to begin.\nEven one very small step.\n\nAmen.",
+    "durationMinutes": 7
+  },
+  {
+    "id": 13,
+    "titleFr": "Prière pour Recevoir l'Amour Divin",
+    "titleEn": "Prayer to Receive Divine Love",
+    "theme": "Amour Divin & Grâce",
+    "type": "originale",
+    "textFr": "Marie, apprends-moi à recevoir.\n\nJ'ai appris à donner,\nParfois à me sacrifier,\nSouvent à oublier mes propres besoins.\nMais recevoir —\nRecevoir l'amour sans me sentir indigne,\nRecevoir la grâce sans chercher à la mériter —\nCela m'est encore difficile.\n\nOuvre en moi un espace\nCapable d'accueillir\nL'amour infini qui m'est offert.\n\nAide-moi à croire\nQue je suis aimé non parce que je suis parfait,\nMais parce que je suis.\n\nQue l'amour divin coule en moi\nComme une rivière qui n'attend\nQue des rives disponibles.\n\nJe m'ouvre. Je reçois. Je suis aimé.\n\nAmen.",
+    "textEn": "Mary, teach me to receive.\n\nI have learned to give,\nSometimes to sacrifice myself,\nOften to forget my own needs.\nBut to receive —\nTo receive love without feeling unworthy,\nTo receive grace without seeking to deserve it —\nThis is still difficult for me.\n\nOpen within me a space\nCapable of welcoming\nThe infinite love that is offered to me.\n\nHelp me to believe\nThat I am loved not because I am perfect,\nBut because I am.\n\nMay divine love flow through me\nLike a river that waits only\nFor available banks.\n\nI open myself. I receive. I am loved.\n\nAmen.",
+    "durationMinutes": 10
+  },
+  {
+    "id": 14,
+    "titleFr": "Prière de l'Angélus Intérieur",
+    "titleEn": "Prayer of the Inner Angelus",
+    "theme": "Présence & Instant",
+    "type": "traditionnelle",
+    "textFr": "L'ange du Seigneur a porté l'annonce à Marie\nEt elle a conçu par la puissance de l'Esprit.\n\nDans ce moment présent,\nJe m'arrête.\nComme Marie s'est arrêtée pour écouter.\n\nJe pose ce que je faisais.\nJe pose mes projets et mes soucis.\nEt j'écoute.\n\nQu'est-ce que le ciel m'annonce aujourd'hui ?\nQuelle graine de lumière\nCherche à germer en moi\nDans ce moment précis ?\n\nVoici ta servante, Seigneur.\nQu'il me soit fait selon ta parole.\n\nEt le Verbe s'est fait chair\nDans ma vie ordinaire.\n\nPriez pour nous, Sainte Mère de Dieu,\nAfin que nous devenions dignes\nDe ce moment présent.\n\nAmen.",
+    "textEn": "The angel of the Lord brought the announcement to Mary\nAnd she conceived by the power of the Spirit.\n\nIn this present moment,\nI stop.\nAs Mary stopped to listen.\n\nI set down what I was doing.\nI set down my projects and my worries.\nAnd I listen.\n\nWhat is heaven announcing to me today?\nWhat seed of light\nIs seeking to germinate within me\nIn this precise moment?\n\nBehold the handmaid of the Lord.\nMay it be done to me according to your word.\n\nAnd the Word became flesh\nIn my ordinary life.\n\nPray for us, Holy Mother of God,\nThat we may become worthy\nOf this present moment.\n\nAmen.",
+    "durationMinutes": 3
+  },
+  {
+    "id": 15,
+    "titleFr": "Prière de Clôture — Confiance Totale",
+    "titleEn": "Closing Prayer — Total Trust",
+    "theme": "Abandon & Paix Finale",
+    "type": "originale",
+    "textFr": "Marie, je termine cette prière\nComme je voudrais terminer chaque jour :\nDans la confiance.\n\nNon pas parce que tout est réglé.\nNon pas parce que je comprends tout.\nMais parce que tu es là.\n\nTu connais mon nom.\nTu connais mes peurs.\nTu connais ce que je n'ose pas encore nommer.\n\nEt tu m'aimes quand même.\nEntièrement. Maintenant.\n\nAlors je pose tout.\nMes réussites et mes échecs.\nMes amours et mes solitudes.\nMes certitudes et mes doutes.\n\nJe les pose à tes pieds\nAvec la légèreté de quelqu'un\nQui sait qu'il n'est pas seul.\n\nMerci, Marie.\n\nAmen.",
+    "textEn": "Mary, I end this prayer\nAs I would like to end each day:\nIn trust.\n\nNot because everything is settled.\nNot because I understand everything.\nBut because you are here.\n\nYou know my name.\nYou know my fears.\nYou know what I do not yet dare to name.\n\nAnd you love me still.\nEntirely. Now.\n\nSo I set down everything.\nMy successes and my failures.\nMy loves and my solitudes.\nMy certainties and my doubts.\n\nI set them at your feet\nWith the lightness of someone\nWho knows they are not alone.\n\nThank you, Mary.\n\nAmen.",
+    "durationMinutes": 5
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "textFr": "« Tu es aimé d'un amour que rien ne peut effacer. Rien. »",
+    "textEn": "« You are loved with a love that nothing can erase. Nothing. »",
+    "category": "amour"
+  },
+  {
+    "id": 2,
+    "textFr": "« L'amour que tu cherches si loin sommeille déjà dans ton propre cœur. »",
+    "textEn": "« The love you seek so far is already slumbering in your own heart. »",
+    "category": "amour"
+  },
+  {
+    "id": 3,
+    "textFr": "« Aimer, c'est choisir chaque jour de voir la lumière dans l'autre. »",
+    "textEn": "« To love is to choose each day to see the light in the other. »",
+    "category": "amour"
+  },
+  {
+    "id": 4,
+    "textFr": "« Ne ferme pas ton cœur parce qu'il a été blessé. C'est par ses fissures que la lumière entre. »",
+    "textEn": "« Do not close your heart because it has been wounded. It is through its cracks that the light enters. »",
+    "category": "amour"
+  },
+  {
+    "id": 5,
+    "textFr": "« Tu mérites un amour qui te fait grandir, pas un amour qui te fait rétrécir. »",
+    "textEn": "« You deserve a love that makes you grow, not a love that makes you shrink. »",
+    "category": "amour"
+  },
+  {
+    "id": 6,
+    "textFr": "« L'amour véritable n'a pas peur — il s'ouvre, il confie, il donne sans compter. »",
+    "textEn": "« True love has no fear — it opens, it trusts, it gives without counting. »",
+    "category": "amour"
+  },
+  {
+    "id": 7,
+    "textFr": "« Chaque acte d'amour sincère, même invisible, change le monde. »",
+    "textEn": "« Every sincere act of love, even invisible, changes the world. »",
+    "category": "amour"
+  },
+  {
+    "id": 8,
+    "textFr": "« L'amour ne se prouve pas avec des mots. Il se vit dans les petits gestes du quotidien. »",
+    "textEn": "« Love is not proven with words. It is lived in the small gestures of daily life. »",
+    "category": "amour"
+  },
+  {
+    "id": 9,
+    "textFr": "« Quand tu aimes depuis ton âme, tu touches l'éternité. »",
+    "textEn": "« When you love from your soul, you touch eternity. »",
+    "category": "amour"
+  },
+  {
+    "id": 10,
+    "textFr": "« Ne cherche pas à être aimé parfaitement — apprends d'abord à t'aimer toi-même. »",
+    "textEn": "« Do not seek to be loved perfectly — learn first to love yourself. »",
+    "category": "amour"
+  },
+  {
+    "id": 11,
+    "textFr": "« La paix n'est pas l'absence de tempête. C'est un ancrage qui tient même dans la tempête. »",
+    "textEn": "« Peace is not the absence of storm. It is an anchor that holds even in the storm. »",
+    "category": "paix"
+  },
+  {
+    "id": 12,
+    "textFr": "« Pose tout ce qui t'agite un instant, et écoute le silence — c'est là que je te parle. »",
+    "textEn": "« Set down everything that agitates you for a moment, and listen to the silence — that is where I speak to you. »",
+    "category": "paix"
+  },
+  {
+    "id": 13,
+    "textFr": "« La paix intérieure ne se trouve pas au bout du chemin. Elle est le chemin. »",
+    "textEn": "« Inner peace is not found at the end of the path. It is the path. »",
+    "category": "paix"
+  },
+  {
+    "id": 14,
+    "textFr": "« Quand tout s'agite autour de toi, reviens à ton centre. Je t'y attends toujours. »",
+    "textEn": "« When everything stirs around you, return to your center. I am always waiting for you there. »",
+    "category": "paix"
+  },
+  {
+    "id": 15,
+    "textFr": "« Un seul moment de silence habité vaut mille paroles. »",
+    "textEn": "« A single inhabited moment of silence is worth a thousand words. »",
+    "category": "paix"
+  },
+  {
+    "id": 16,
+    "textFr": "« Tu n'as pas à tout régler pour avoir la paix. La paix vient avant la solution. »",
+    "textEn": "« You do not have to fix everything to have peace. Peace comes before the solution. »",
+    "category": "paix"
+  },
+  {
+    "id": 17,
+    "textFr": "« Respire. Le ciel n'a pas changé derrière les nuages de tes pensées. »",
+    "textEn": "« Breathe. The sky has not changed behind the clouds of your thoughts. »",
+    "category": "paix"
+  },
+  {
+    "id": 18,
+    "textFr": "« La sérénité n'est pas un luxe. C'est ton état naturel quand tu te rappelles qui tu es. »",
+    "textEn": "« Serenity is not a luxury. It is your natural state when you remember who you are. »",
+    "category": "paix"
+  },
+  {
+    "id": 19,
+    "textFr": "« Pose tes fardeaux à mes pieds. Tu n'as pas à les porter seul. »",
+    "textEn": "« Set down your burdens at my feet. You do not have to carry them alone. »",
+    "category": "paix"
+  },
+  {
+    "id": 20,
+    "textFr": "« Dans le silence de ton cœur, toutes les réponses sont déjà là. »",
+    "textEn": "« In the silence of your heart, all the answers are already there. »",
+    "category": "paix"
+  },
+  {
+    "id": 21,
+    "textFr": "« L'espoir n'est pas une illusion. C'est la lumière que je dépose dans les cœurs qui souffrent. »",
+    "textEn": "« Hope is not an illusion. It is the light I place in suffering hearts. »",
+    "category": "espoir"
+  },
+  {
+    "id": 22,
+    "textFr": "« Même dans ta nuit la plus longue, une étoile brille pour toi. Elle s'appelle foi. »",
+    "textEn": "« Even in your longest night, a star shines for you. Its name is faith. »",
+    "category": "espoir"
+  },
+  {
+    "id": 23,
+    "textFr": "« Ne perds pas confiance. Ce que tu traverses te prépare pour quelque chose de plus grand. »",
+    "textEn": "« Do not lose confidence. What you are going through is preparing you for something greater. »",
+    "category": "espoir"
+  },
+  {
+    "id": 24,
+    "textFr": "« La graine ne voit pas la fleur qu'elle deviendra. Toi non plus — mais moi oui. »",
+    "textEn": "« The seed does not see the flower it will become. Neither do you — but I do. »",
+    "category": "espoir"
+  },
+  {
+    "id": 25,
+    "textFr": "« Chaque aube est une promesse renouvelée. Laisse-la te toucher. »",
+    "textEn": "« Each dawn is a renewed promise. Let it touch you. »",
+    "category": "espoir"
+  },
+  {
+    "id": 26,
+    "textFr": "« Ta prière, même maladroite, même chuchotée, m'arrive toujours. »",
+    "textEn": "« Your prayer, even clumsy, even whispered, always reaches me. »",
+    "category": "espoir"
+  },
+  {
+    "id": 27,
+    "textFr": "« Fais confiance au chemin même quand tu n'en vois pas la fin. Je marche devant toi. »",
+    "textEn": "« Trust the path even when you cannot see its end. I walk before you. »",
+    "category": "espoir"
+  },
+  {
+    "id": 28,
+    "textFr": "« Rien de ce que tu traverses n'est perdu. Tout est semence. »",
+    "textEn": "« Nothing you are going through is lost. Everything is seed. »",
+    "category": "espoir"
+  },
+  {
+    "id": 29,
+    "textFr": "« Le doute ne ferme pas le ciel. Il l'ouvre, parfois, à des profondeurs insoupçonnées. »",
+    "textEn": "« Doubt does not close the sky. Sometimes it opens it to unsuspected depths. »",
+    "category": "espoir"
+  },
+  {
+    "id": 30,
+    "textFr": "« Là où tu vois une fin, je vois souvent un commencement. »",
+    "textEn": "« Where you see an end, I often see a beginning. »",
+    "category": "espoir"
+  },
+  {
+    "id": 31,
+    "textFr": "« Tu es bien plus fort que tu ne le crois. Je le vois, moi, même quand tu ne le sens pas. »",
+    "textEn": "« You are far stronger than you believe. I see it, even when you cannot feel it. »",
+    "category": "force"
+  },
+  {
+    "id": 32,
+    "textFr": "« Le courage n'est pas l'absence de peur. C'est avancer avec elle, en me tenant la main. »",
+    "textEn": "« Courage is not the absence of fear. It is moving forward with it, holding my hand. »",
+    "category": "force"
+  },
+  {
+    "id": 33,
+    "textFr": "« Relève-toi. Pas parce que c'est facile, mais parce que tu en es capable. »",
+    "textEn": "« Rise up. Not because it is easy, but because you are capable of it. »",
+    "category": "force"
+  },
+  {
+    "id": 34,
+    "textFr": "« Ta fragilité est ta plus grande force quand tu acceptes de la confier au ciel. »",
+    "textEn": "« Your fragility is your greatest strength when you agree to entrust it to heaven. »",
+    "category": "force"
+  },
+  {
+    "id": 35,
+    "textFr": "« Les épreuves ne te brisent pas. Elles révèlent ce que tu es vraiment. »",
+    "textEn": "« Trials do not break you. They reveal who you truly are. »",
+    "category": "force"
+  },
+  {
+    "id": 36,
+    "textFr": "« N'abandonne pas à l'aube de ton miracle. Il est souvent plus proche que tu ne le crois. »",
+    "textEn": "« Do not give up at the dawn of your miracle. It is often closer than you believe. »",
+    "category": "force"
+  },
+  {
+    "id": 37,
+    "textFr": "« La force dont tu as besoin pour aujourd'hui t'est déjà donnée. Puise-y. »",
+    "textEn": "« The strength you need for today is already given to you. Draw from it. »",
+    "category": "force"
+  },
+  {
+    "id": 38,
+    "textFr": "« Chaque fois que tu te relèves, le ciel applaudit. »",
+    "textEn": "« Every time you rise again, heaven applauds. »",
+    "category": "force"
+  },
+  {
+    "id": 39,
+    "textFr": "« Tu n'es pas seul dans ce combat. Une armée de lumière marche avec toi. »",
+    "textEn": "« You are not alone in this battle. An army of light walks with you. »",
+    "category": "force"
+  },
+  {
+    "id": 40,
+    "textFr": "« Sois courageux dans ta douceur. C'est la plus rare des forces. »",
+    "textEn": "« Be courageous in your gentleness. It is the rarest of strengths. »",
+    "category": "force"
+  },
+  {
+    "id": 41,
+    "textFr": "« Sois doux avec toi-même. Tu fais de ton mieux et c'est suffisant. »",
+    "textEn": "« Be gentle with yourself. You are doing your best and it is enough. »",
+    "category": "douceur"
+  },
+  {
+    "id": 42,
+    "textFr": "« Ta blessure mérite d'être regardée avec amour, pas avec honte. »",
+    "textEn": "« Your wound deserves to be looked at with love, not with shame. »",
+    "category": "douceur"
+  },
+  {
+    "id": 43,
+    "textFr": "« La guérison ne va pas toujours vite. Mais elle va toujours quelque part. »",
+    "textEn": "« Healing does not always go quickly. But it always goes somewhere. »",
+    "category": "douceur"
+  },
+  {
+    "id": 44,
+    "textFr": "« Pleure si tu en as besoin. Les larmes sont une prière que le corps dit pour toi. »",
+    "textEn": "« Cry if you need to. Tears are a prayer that the body says for you. »",
+    "category": "douceur"
+  },
+  {
+    "id": 45,
+    "textFr": "« Tu n'as pas à tout surmonter seul. Laisse-moi porter la moitié de ce que tu portes. »",
+    "textEn": "« You do not have to overcome everything alone. Let me carry half of what you are carrying. »",
+    "category": "douceur"
+  },
+  {
+    "id": 46,
+    "textFr": "« Prends soin de toi comme tu prendrais soin de quelqu'un que tu aimes infiniment. »",
+    "textEn": "« Take care of yourself as you would take care of someone you love infinitely. »",
+    "category": "douceur"
+  },
+  {
+    "id": 47,
+    "textFr": "« Il n'y a pas de petite douleur. Chacune mérite d'être tenue avec tendresse. »",
+    "textEn": "« There is no small pain. Each one deserves to be held with tenderness. »",
+    "category": "douceur"
+  },
+  {
+    "id": 48,
+    "textFr": "« Ce que tu as traversé t'a marqué mais ne te définit pas. Tu es bien plus que tes blessures. »",
+    "textEn": "« What you have been through has marked you but does not define you. You are far more than your wounds. »",
+    "category": "douceur"
+  },
+  {
+    "id": 49,
+    "textFr": "« La douceur envers soi-même est le premier acte de guérison. »",
+    "textEn": "« Gentleness toward oneself is the first act of healing. »",
+    "category": "douceur"
+  },
+  {
+    "id": 50,
+    "textFr": "« Je t'enveloppe dans ma lumière bleue. Laisse-la guérir ce que les mots ne peuvent pas atteindre. »",
+    "textEn": "« I wrap you in my blue light. Let it heal what words cannot reach. »",
+    "category": "douceur"
+  },
+  {
+    "id": 51,
+    "textFr": "« La gratitude transforme ce que tu as en suffisance. Commence par un seul merci. »",
+    "textEn": "« Gratitude transforms what you have into sufficiency. Start with a single thank you. »",
+    "category": "gratitude"
+  },
+  {
+    "id": 52,
+    "textFr": "« La joie n'attend pas que tout aille bien. Elle se glisse dans les interstices du quotidien. »",
+    "textEn": "« Joy does not wait for everything to be going well. It slips into the interstices of daily life. »",
+    "category": "gratitude"
+  },
+  {
+    "id": 53,
+    "textFr": "« Célèbre chaque petit pas. Le ciel célèbre chacun d'eux avec toi. »",
+    "textEn": "« Celebrate every small step. Heaven celebrates each of them with you. »",
+    "category": "gratitude"
+  },
+  {
+    "id": 54,
+    "textFr": "« Un cœur reconnaissant est un cœur qui s'ouvre à recevoir encore plus. »",
+    "textEn": "« A grateful heart is a heart that opens to receive even more. »",
+    "category": "gratitude"
+  },
+  {
+    "id": 55,
+    "textFr": "« La joie est ton état naturel. Ce qui te l'a volée peut aussi te la rendre. »",
+    "textEn": "« Joy is your natural state. What stole it from you can also give it back. »",
+    "category": "gratitude"
+  },
+  {
+    "id": 56,
+    "textFr": "« Remarque ce qui est beau aujourd'hui. Même une seule chose suffit. »",
+    "textEn": "« Notice what is beautiful today. Even one single thing is enough. »",
+    "category": "gratitude"
+  },
+  {
+    "id": 57,
+    "textFr": "« Le bonheur ne se trouve pas — il se reconnaît dans ce qui est déjà là. »",
+    "textEn": "« Happiness is not found — it is recognized in what is already there. »",
+    "category": "gratitude"
+  },
+  {
+    "id": 58,
+    "textFr": "« Chante, même si ta voix tremble. Le chant de l'âme est toujours juste. »",
+    "textEn": "« Sing, even if your voice trembles. The song of the soul is always right. »",
+    "category": "gratitude"
+  },
+  {
+    "id": 59,
+    "textFr": "« La beauté du monde est un message d'amour que je t'envoie chaque jour. »",
+    "textEn": "« The beauty of the world is a message of love I send you every day. »",
+    "category": "gratitude"
+  },
+  {
+    "id": 60,
+    "textFr": "« Ce moment présent, avec toutes ses imperfections, est un cadeau. Ouvre-le. »",
+    "textEn": "« This present moment, with all its imperfections, is a gift. Open it. »",
+    "category": "gratitude"
+  }
+]

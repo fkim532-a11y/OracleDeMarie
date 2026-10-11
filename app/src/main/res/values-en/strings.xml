@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">Mary</string>
+
+    <!-- Global -->
+    <string name="oracle_name">Oracle of Mary</string>
+    <string name="back">Back</string>
+    <string name="back_to_portal">Back to portal</string>
+    <string name="loading">Loading…</string>
+    <string name="share">Share</string>
+    <string name="marie_image_desc">The Virgin Mary</string>
+    <string name="card_back_desc">Back of the card</string>
+
+    <!-- Themes -->
+    <string name="theme_spirituel">Spiritual</string>
+    <string name="theme_amour">Love</string>
+    <string name="theme_travail">Work</string>
+    <string name="theme_sante">Health</string>
+    <string name="theme_famille">Family</string>
+
+    <!-- Three-card positions -->
+    <string name="position_corps">Body</string>
+    <string name="position_ame">Soul</string>
+    <string name="position_esprit">Spirit</string>
+
+    <!-- Card parts -->
+    <string name="part_1">Part 1</string>
+    <string name="part_2">Part 2</string>
+    <string name="part_3">Part 3</string>
+
+    <!-- Quote categories -->
+    <string name="category_amour">Love</string>
+    <string name="category_paix">Peace</string>
+    <string name="category_espoir">Hope</string>
+    <string name="category_force">Strength</string>
+    <string name="category_douceur">Gentleness</string>
+    <string name="category_gratitude">Gratitude</string>
+
+    <!-- PortalScreen -->
+    <string name="portal_tagline">Guidance &amp; Light</string>
+    <string name="portal_tile_draw1">One-Card Draw</string>
+    <string name="portal_tile_draw1_sub">Free draw guidance</string>
+    <string name="portal_tile_draw3">3-Card Draw</string>
+    <string name="portal_tile_draw3_sub">Body · Soul · Spirit</string>
+    <string name="portal_tile_gallery">Gallery</string>
+    <string name="portal_tile_gallery_sub">The 33 Oracle Cards</string>
+    <string name="portal_tile_paroles">Mary\'s Words</string>
+    <string name="portal_tile_paroles_sub">Messages &amp; quotes</string>
+    <string name="portal_tile_prayers">Prayers to Mary</string>
+    <string name="portal_tile_prayers_sub">14 prayers, timer</string>
+    <string name="portal_tile_journal">Journal</string>
+    <string name="portal_tile_journal_sub">My reflections</string>
+
+    <!-- HomeScreen -->
+    <string name="home_subtitle">One-Card Draw</string>
+    <string name="home_share">✦  Share this guidance</string>
+    <string name="home_reveal">Tap to reveal the message</string>
+    <string name="home_note_placeholder">Note what this guidance inspires in you…</string>
+    <string name="home_note_saved">Note saved ✦</string>
+    <string name="home_note_save">Save my note</string>
+    <string name="note_journal_hint">This note will be saved in your Journal ✦</string>
+    <string name="home_new_draw">New Draw</string>
+
+    <!-- ThemeSelector -->
+    <string name="choose_theme">Choose your theme</string>
+
+    <!-- TroisCartesScreen -->
+    <string name="troiscartes_title">Three-Card Draw</string>
+    <string name="troiscartes_new">New draw</string>
+    <string name="troiscartes_dismiss">Tap to close</string>
+    <string name="troiscartes_hint_next">Tap the card to see the next</string>
+    <string name="troiscartes_hint_reveal">Tap the card to reveal your draw</string>
+    <string name="troiscartes_note_placeholder">Note what this draw inspires in you…</string>
+
+    <!-- CardDetailScreen -->
+    <string name="tab_spirituel">🕊️ Spiritual</string>
+    <string name="tab_amour">💗 Love</string>
+    <string name="tab_travail">💼 Work</string>
+    <string name="tab_sante">🌿 Health</string>
+    <string name="tab_famille">🏡 Family</string>
+
+    <!-- GalleryScreen -->
+    <string name="gallery_discover_hint">Tap the image to view the card</string>
+    <string name="gallery_undiscovered">Card not yet discovered</string>
+
+    <!-- JournalScreen -->
+    <string name="journal_empty">Your journal is empty.\nDraw your first card to begin.</string>
+    <string name="journal_three_label">3-Card Draw</string>
+    <string name="journal_share_chooser">Share your draw</string>
+    <string name="journal_unknown_card">Unknown card</string>
+
+    <!-- ParolesMarieScreen -->
+    <string name="paroles_title">Mary\'s Words</string>
+    <string name="paroles_new_message">✦  New message</string>
+
+    <!-- PrayerScreen -->
+    <string name="prayers_title">Prayers to Mary</string>
+    <string name="prayer_listen">🔊  Listen to the prayer</string>
+    <string name="prayer_stop_listen">⏹  Stop listening</string>
+    <string name="prayer_just_listen">▶  Just listen</string>
+    <string name="prayer_or">or</string>
+    <string name="prayer_listen_meditate">Listen + Meditate</string>
+    <string name="prayer_ambiance_label">Background sound</string>
+    <string name="prayer_ambiance_eau">💧 Water</string>
+    <string name="prayer_ambiance_oiseaux">🐦 Birds</string>
+    <string name="prayer_ambiance_silence">🔇 Silence</string>
+    <string name="prayer_launch">✦  Start</string>
+    <string name="prayer_playing">Prayer playing…</string>
+    <string name="prayer_duration_min">%1$d min</string>
+    <string name="meditation_stop">Stop</string>
+    <string name="meditation_amen">Amen</string>
+    <string name="meditation_done">Your meditation is complete</string>
+    <string name="meditation_back">Back to prayer</string>
+
+    <!-- SettingsScreen -->
+    <string name="settings_title">About &amp; Support</string>
+    <string name="settings_notif_section">Notifications</string>
+    <string name="settings_notif_enable">Daily reminder</string>
+    <string name="settings_notif_subtitle">Mary invites you each day to your guidance</string>
+    <string name="settings_notif_time">Reminder time</string>
+    <string name="settings_lang_section">Language</string>
+    <string name="settings_lang_fr">Français</string>
+    <string name="settings_lang_en">English</string>
+    <string name="settings_about_section">About</string>
+    <string name="settings_version">Version 1.0</string>
+    <string name="settings_about_desc">33 guidance cards inspired by Marian devotion. Each draw invites you to welcome Mary\'s wisdom into your daily life.</string>
+    <string name="settings_about_heart">This app was created with love and dedication. It may not be perfect — but every prayer, every card, every word was chosen with care and sincerity. Thank you for your understanding and kindness. ✦</string>
+    <string name="settings_privacy">Privacy Policy</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_slide1_title">Oracle of Mary</string>
+    <string name="onboarding_slide1_desc">33 guidance cards inspired by Marian devotion. Each day, let Mary accompany you with wisdom and gentleness in your life.</string>
+    <string name="onboarding_slide2_title">Free &amp; ad-free ✦</string>
+    <string name="onboarding_slide2_desc">This app is completely free and contains no advertising. If it brings light to your daily life, a small contribution is always welcome.</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_start">Get started</string>
+    <string name="onboarding_support_kofi">☕ Support on Ko-fi</string>
+
+    <!-- Don / Support -->
+    <string name="settings_support_section">Support the Oracle</string>
+    <string name="settings_support_desc">This app is free and ad-free. If it brings you light, a small donation is always welcome — the button below takes you there in one click.</string>
+    <string name="settings_kofi">☕ Ko-fi</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_name">Daily Reminder</string>
+    <string name="notif_channel_desc">Reminder for your guidance of the day</string>
+    <string-array name="notif_reminder_messages">
+        <item>Mary is waiting for your guidance of the day ✨</item>
+        <item>Your card of the day is ready to be drawn</item>
+        <item>A message of peace awaits you today ✦</item>
+        <item>Take a moment with Mary today</item>
+        <item>Your daily guidance is waiting for you ✨</item>
+        <item>Mary has a message for you today</item>
+        <item>A moment of serenity awaits you ✦</item>
+    </string-array>
+</resources>

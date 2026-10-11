@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">Marie</string>
+
+    <!-- Global -->
+    <string name="oracle_name">Oracle de Marie</string>
+    <string name="back">Retour</string>
+    <string name="back_to_portal">Retour au portail</string>
+    <string name="loading">Chargement…</string>
+    <string name="share">Partager</string>
+    <string name="marie_image_desc">La Vierge Marie</string>
+    <string name="card_back_desc">Dos de la carte</string>
+
+    <!-- Themes -->
+    <string name="theme_spirituel">Spirituel</string>
+    <string name="theme_amour">Amour</string>
+    <string name="theme_travail">Travail</string>
+    <string name="theme_sante">Santé</string>
+    <string name="theme_famille">Famille</string>
+
+    <!-- Three-card positions -->
+    <string name="position_corps">Corps</string>
+    <string name="position_ame">Âme</string>
+    <string name="position_esprit">Esprit</string>
+
+    <!-- Card parts -->
+    <string name="part_1">Partie 1</string>
+    <string name="part_2">Partie 2</string>
+    <string name="part_3">Partie 3</string>
+
+    <!-- Quote categories -->
+    <string name="category_amour">Amour</string>
+    <string name="category_paix">Paix</string>
+    <string name="category_espoir">Espoir</string>
+    <string name="category_force">Force</string>
+    <string name="category_douceur">Douceur</string>
+    <string name="category_gratitude">Gratitude</string>
+
+    <!-- PortalScreen -->
+    <string name="portal_tagline">Guidance &amp; Lumière</string>
+    <string name="portal_tile_draw1">Tirage à une carte</string>
+    <string name="portal_tile_draw1_sub">Guidance par tirage libre</string>
+    <string name="portal_tile_draw3">Tirage 3 Cartes</string>
+    <string name="portal_tile_draw3_sub">Corps · Âme · Esprit</string>
+    <string name="portal_tile_gallery">Galerie</string>
+    <string name="portal_tile_gallery_sub">Les 33 cartes de l\'Oracle</string>
+    <string name="portal_tile_paroles">Paroles de Marie</string>
+    <string name="portal_tile_paroles_sub">Messages &amp; citations</string>
+    <string name="portal_tile_prayers">Prières à Marie</string>
+    <string name="portal_tile_prayers_sub">14 prières, minuteur</string>
+    <string name="portal_tile_journal">Journal</string>
+    <string name="portal_tile_journal_sub">Mes réflexions</string>
+
+    <!-- HomeScreen -->
+    <string name="home_subtitle">Tirage à une carte</string>
+    <string name="home_share">✦  Partager cette guidance</string>
+    <string name="home_reveal">Toucher pour révéler le message</string>
+    <string name="home_note_placeholder">Notez ce que cette guidance vous inspire…</string>
+    <string name="home_note_saved">Note enregistrée ✦</string>
+    <string name="home_note_save">Sauvegarder ma note</string>
+    <string name="note_journal_hint">Cette note sera sauvegardée dans votre Journal ✦</string>
+    <string name="home_new_draw">Nouveau Tirage</string>
+
+    <!-- ThemeSelector -->
+    <string name="choose_theme">Choisissez votre thème</string>
+
+    <!-- TroisCartesScreen -->
+    <string name="troiscartes_title">Tirage à trois cartes</string>
+    <string name="troiscartes_new">Nouveau tirage</string>
+    <string name="troiscartes_dismiss">Appuie pour fermer</string>
+    <string name="troiscartes_hint_next">Appuie sur la carte pour voir la suivante</string>
+    <string name="troiscartes_hint_reveal">Appuie sur la carte pour révéler votre tirage</string>
+    <string name="troiscartes_note_placeholder">Notez ce que ce tirage vous inspire…</string>
+
+    <!-- CardDetailScreen -->
+    <string name="tab_spirituel">🕊️ Spirituel</string>
+    <string name="tab_amour">💗 Amour</string>
+    <string name="tab_travail">💼 Travail</string>
+    <string name="tab_sante">🌿 Santé</string>
+    <string name="tab_famille">🏡 Famille</string>
+
+    <!-- GalleryScreen -->
+    <string name="gallery_discover_hint">Appuyer sur l\'image pour voir la fiche</string>
+    <string name="gallery_undiscovered">Carte non encore découverte</string>
+
+    <!-- JournalScreen -->
+    <string name="journal_empty">Votre journal est vide.\nTirez votre première carte pour commencer.</string>
+    <string name="journal_three_label">Tirage 3 cartes</string>
+    <string name="journal_share_chooser">Partager votre tirage</string>
+    <string name="journal_unknown_card">Carte inconnue</string>
+
+    <!-- ParolesMarieScreen -->
+    <string name="paroles_title">Paroles de Marie</string>
+    <string name="paroles_new_message">✦  Nouveau message</string>
+
+    <!-- PrayerScreen -->
+    <string name="prayers_title">Prières à Marie</string>
+    <string name="prayer_listen">🔊  Écouter la prière</string>
+    <string name="prayer_stop_listen">⏹  Arrêter la lecture</string>
+    <string name="prayer_just_listen">▶  Juste écouter</string>
+    <string name="prayer_or">ou</string>
+    <string name="prayer_listen_meditate">Écouter + Méditer</string>
+    <string name="prayer_ambiance_label">Musique de fond</string>
+    <string name="prayer_ambiance_eau">💧 Eau</string>
+    <string name="prayer_ambiance_oiseaux">🐦 Oiseaux</string>
+    <string name="prayer_ambiance_silence">🔇 Silence</string>
+    <string name="prayer_launch">✦  Lancer</string>
+    <string name="prayer_playing">Prière en cours…</string>
+    <string name="prayer_duration_min">%1$d min</string>
+    <string name="meditation_stop">Arrêter</string>
+    <string name="meditation_amen">Amen</string>
+    <string name="meditation_done">Votre méditation est terminée</string>
+    <string name="meditation_back">Retour à la prière</string>
+
+    <!-- SettingsScreen -->
+    <string name="settings_title">À propos &amp; Soutenir</string>
+    <string name="settings_notif_section">Notifications</string>
+    <string name="settings_notif_enable">Rappel quotidien</string>
+    <string name="settings_notif_subtitle">Marie vous invite chaque jour à votre guidance</string>
+    <string name="settings_notif_time">Heure du rappel</string>
+    <string name="settings_lang_section">Langue</string>
+    <string name="settings_lang_fr">Français</string>
+    <string name="settings_lang_en">English</string>
+    <string name="settings_about_section">À propos</string>
+    <string name="settings_version">Version 1.0</string>
+    <string name="settings_about_desc">33 cartes de guidance inspirées de la dévotion mariale. Chaque tirage vous invite à accueillir la sagesse de Marie dans votre quotidien.</string>
+    <string name="settings_about_heart">Cette application a été réalisée avec amour et dévouement. Elle n\'est peut-être pas parfaite — mais chaque prière, chaque carte, chaque mot a été choisi avec soin et sincérité. Merci pour votre compréhension et votre bienveillance. ✦</string>
+    <string name="settings_privacy">Politique de confidentialité</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_slide1_title">Oracle de Marie</string>
+    <string name="onboarding_slide1_desc">33 cartes de guidance inspirées de la dévotion mariale. Chaque jour, laissez Marie vous accompagner avec sagesse et douceur dans votre vie.</string>
+    <string name="onboarding_slide2_title">Gratuite &amp; sans publicité ✦</string>
+    <string name="onboarding_slide2_desc">Cette application est entièrement gratuite et ne contient aucune publicité. Si elle vous apporte de la lumière au quotidien, un petit soutien est toujours bienvenu.</string>
+    <string name="onboarding_next">Suivant</string>
+    <string name="onboarding_start">Commencer</string>
+    <string name="onboarding_support_kofi">☕ Soutenir sur Ko-fi</string>
+
+    <!-- Don / Support -->
+    <string name="settings_support_section">Soutenir l\'Oracle</string>
+    <string name="settings_support_desc">Cette application est gratuite et sans publicité. Si elle vous apporte de la lumière, un petit don est toujours le bienvenu — le bouton ci-dessous vous y amène en un clic.</string>
+    <string name="settings_kofi">☕ Ko-fi</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_name">Rappel quotidien</string>
+    <string name="notif_channel_desc">Rappel pour votre guidance du jour</string>
+    <string-array name="notif_reminder_messages">
+        <item>Marie vous attend pour votre guidance du jour ✨</item>
+        <item>Votre carte du jour est prête à être tirée</item>
+        <item>Un message de paix vous attend aujourd\'hui ✦</item>
+        <item>Prenez un instant avec Marie aujourd\'hui</item>
+        <item>Votre guidance quotidienne vous attend ✨</item>
+        <item>Marie a un message pour vous aujourd\'hui</item>
+        <item>Un moment de sérénité vous attend ✦</item>
+    </string-array>
+</resources>
