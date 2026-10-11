@@ -47,6 +47,10 @@ android {
             // Sans keystore.properties (compilation F-Droid), l'APK sort non signé
             signingConfig = if (keystoreProperties.isEmpty()) null
                             else signingConfigs.getByName("release")
+            // Build reproductible F-Droid : ne pas inscrire le commit git dans l'APK
+            vcsInfo {
+                include = false
+            }
         }
     }
     compileOptions {
@@ -55,6 +59,10 @@ android {
     }
     buildFeatures {
         compose = true
+    }
+    dependenciesInfo {
+        // Bloc chiffré de Google dans la signature de l'APK : F-Droid le refuse
+        includeInApk = false
     }
 }
 
