@@ -11,6 +11,7 @@ import androidx.core.app.NotificationCompat
 import androidx.core.app.NotificationManagerCompat
 import com.kim.oraclemarie.MainActivity
 import com.kim.oraclemarie.R
+import com.kim.oraclemarie.localizedContext
 import java.util.Calendar
 
 const val CHANNEL_ID = "oracle_daily_reminder"
@@ -38,8 +39,9 @@ fun cancelReminder(context: Context) {
     alarmManager.cancel(buildPendingIntent(context))
 }
 
-fun sendReminderNotification(context: Context) {
-    if (!NotificationManagerCompat.from(context).areNotificationsEnabled()) return
+fun sendReminderNotification(receiverContext: Context) {
+    if (!NotificationManagerCompat.from(receiverContext).areNotificationsEnabled()) return
+    val context = localizedContext(receiverContext)
 
     val openAppIntent = Intent(context, MainActivity::class.java).apply {
         flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK

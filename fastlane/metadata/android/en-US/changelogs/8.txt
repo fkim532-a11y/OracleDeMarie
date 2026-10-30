@@ -1,0 +1,1 @@
+Fixes: the daily reminder and several screens now follow the chosen language, doubled quotation marks removed in Mary's Words, correct version number in About.

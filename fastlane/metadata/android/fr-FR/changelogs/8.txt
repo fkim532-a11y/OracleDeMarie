@@ -1,0 +1,1 @@
+Corrections : le rappel quotidien et plusieurs écrans respectent désormais la langue choisie, guillemets en double supprimés dans Paroles de Marie, numéro de version exact dans À propos.

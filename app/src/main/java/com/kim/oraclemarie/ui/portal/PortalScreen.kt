@@ -328,7 +328,7 @@ fun PortalScreen(onNavigate: (String) -> Unit) {
                 Spacer(Modifier.height(4.dp))
 
                 Text(
-                    text = "✦  À propos & Soutenir",
+                    text = "✦  " + stringResource(R.string.settings_title),
                     style = MaterialTheme.typography.bodyMedium,
                     color = SoftWhite.copy(alpha = 0.65f),
                     modifier = Modifier

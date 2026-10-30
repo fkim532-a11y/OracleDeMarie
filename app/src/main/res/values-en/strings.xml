@@ -121,7 +121,7 @@
     <string name="settings_lang_fr">Français</string>
     <string name="settings_lang_en">English</string>
     <string name="settings_about_section">About</string>
-    <string name="settings_version">Version 1.0</string>
+    <string name="settings_version">Version %1$s</string>
     <string name="settings_about_desc">33 guidance cards inspired by Marian devotion. Each draw invites you to welcome Mary\'s wisdom into your daily life.</string>
     <string name="settings_about_heart">This app was created with love and dedication. It may not be perfect — but every prayer, every card, every word was chosen with care and sincerity. Thank you for your understanding and kindness. ✦</string>
     <string name="settings_privacy">Privacy Policy</string>
@@ -152,4 +152,23 @@
         <item>Mary has a message for you today</item>
         <item>A moment of serenity awaits you ✦</item>
     </string-array>
+
+    <!-- Version 1.3.4 : textes sortis du code et thèmes des prières -->
+    <string name="journal_title">My Journal</string>
+    <string name="card_detail_title">Oracle Card</string>
+    <string name="loading_cards">Loading cards…</string>
+    <string name="prayer_theme_abandon_confiance">Surrender &amp; Trust</string>
+    <string name="prayer_theme_abandon_paix">Surrender &amp; Final Peace</string>
+    <string name="prayer_theme_accueil_protection">Welcome &amp; Protection</string>
+    <string name="prayer_theme_amour_grace">Divine Love &amp; Grace</string>
+    <string name="prayer_theme_famille_liens">Family &amp; Bonds</string>
+    <string name="prayer_theme_guerison_sante">Healing &amp; Health</string>
+    <string name="prayer_theme_meditation">Meditation &amp; Contemplation</string>
+    <string name="prayer_theme_paix_serenite">Peace &amp; Serenity</string>
+    <string name="prayer_theme_pardon">Forgiveness &amp; Release</string>
+    <string name="prayer_theme_protection_guidance">Protection &amp; Guidance</string>
+    <string name="prayer_theme_presence">Presence &amp; the Present Moment</string>
+    <string name="prayer_theme_secours">Help &amp; Intercession</string>
+    <string name="prayer_theme_soir_repos">Evening &amp; Rest</string>
+    <string name="prayer_theme_vocation">Vocation &amp; Life Path</string>
 </resources>

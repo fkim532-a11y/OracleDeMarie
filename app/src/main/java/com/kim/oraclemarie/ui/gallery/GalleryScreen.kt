@@ -146,7 +146,7 @@ fun GalleryScreen(
                         verticalArrangement = Arrangement.spacedBy(10.dp)
                     ) {
                         item(span = { GridItemSpan(maxLineSpan) }) {
-                            PartHeader(title = "Partie I", color = MarianBlue)
+                            PartHeader(title = stringResource(R.string.part_1), color = MarianBlue)
                         }
                         items(part1) { card ->
                             GalleryCardItem(
@@ -159,7 +159,7 @@ fun GalleryScreen(
                             )
                         }
                         item(span = { GridItemSpan(maxLineSpan) }) {
-                            PartHeader(title = "Partie II", color = MysticPurple)
+                            PartHeader(title = stringResource(R.string.part_2), color = MysticPurple)
                         }
                         items(part2) { card ->
                             GalleryCardItem(
@@ -172,7 +172,7 @@ fun GalleryScreen(
                             )
                         }
                         item(span = { GridItemSpan(maxLineSpan) }) {
-                            PartHeader(title = "Partie III", color = WarmAmber)
+                            PartHeader(title = stringResource(R.string.part_3), color = WarmAmber)
                         }
                         items(part3) { card ->
                             GalleryCardItem(

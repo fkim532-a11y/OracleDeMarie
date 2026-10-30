@@ -69,6 +69,25 @@ import com.kim.oraclemarie.ui.theme.DarkNavy
 import com.kim.oraclemarie.ui.theme.SacredGold
 import com.kim.oraclemarie.ui.theme.SoftWhite
 
+@Composable
+private fun prayerThemeLabel(theme: String): String = when (theme) {
+    "Abandon & Confiance"         -> stringResource(R.string.prayer_theme_abandon_confiance)
+    "Abandon & Paix Finale"       -> stringResource(R.string.prayer_theme_abandon_paix)
+    "Accueil & Protection"        -> stringResource(R.string.prayer_theme_accueil_protection)
+    "Amour Divin & Grâce"         -> stringResource(R.string.prayer_theme_amour_grace)
+    "Famille & Liens"             -> stringResource(R.string.prayer_theme_famille_liens)
+    "Guérison & Santé"            -> stringResource(R.string.prayer_theme_guerison_sante)
+    "Méditation & Contemplation"  -> stringResource(R.string.prayer_theme_meditation)
+    "Paix & Sérénité"             -> stringResource(R.string.prayer_theme_paix_serenite)
+    "Pardon & Libération"         -> stringResource(R.string.prayer_theme_pardon)
+    "Protection & Guidance"       -> stringResource(R.string.prayer_theme_protection_guidance)
+    "Présence & Instant"          -> stringResource(R.string.prayer_theme_presence)
+    "Secours & Intercession"      -> stringResource(R.string.prayer_theme_secours)
+    "Soir & Repos"                -> stringResource(R.string.prayer_theme_soir_repos)
+    "Vocation & Chemin de vie"    -> stringResource(R.string.prayer_theme_vocation)
+    else                          -> theme
+}
+
 private fun formatTime(seconds: Int): String {
     val m = seconds / 60
     val s = seconds % 60
@@ -275,7 +294,7 @@ private fun PrayerDetailContent(
                 Spacer(Modifier.height(4.dp))
 
                 Text(
-                    text = prayer.theme,
+                    text = prayerThemeLabel(prayer.theme),
                     style = MaterialTheme.typography.labelLarge,
                     color = SacredGold.copy(alpha = 0.8f)
                 )
@@ -583,7 +602,7 @@ private fun PrayerTimerContent(
             Text("✦", style = MaterialTheme.typography.titleSmall, color = SacredGold.copy(alpha = 0.6f))
             Spacer(Modifier.height(4.dp))
             Text(
-                text = prayer.theme,
+                text = prayerThemeLabel(prayer.theme),
                 style = MaterialTheme.typography.labelLarge,
                 color = SacredGold.copy(alpha = 0.8f)
             )

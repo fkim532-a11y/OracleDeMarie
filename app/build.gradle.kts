@@ -21,8 +21,8 @@ android {
         applicationId = "com.kim.oraclemarie"
         minSdk = 26
         targetSdk = 37
-        versionCode = 7
-        versionName = "1.3.3"
+        versionCode = 8
+        versionName = "1.3.4"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -52,6 +52,10 @@ android {
                 include = false
             }
         }
+        debug {
+            // S'installe à côté de la version Play (signée par Google) sans la remplacer
+            applicationIdSuffix = ".debug"
+        }
     }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
@@ -59,6 +63,13 @@ android {
     }
     buildFeatures {
         compose = true
+    }
+    bundle {
+        // Sans ça, Play ne livre que le split de la langue du téléphone : le sélecteur
+        // de langue in-app n'a alors aucun strings.xml de l'autre langue à charger.
+        language {
+            enableSplit = false
+        }
     }
     dependenciesInfo {
         // Bloc chiffré de Google dans la signature de l'APK : F-Droid le refuse

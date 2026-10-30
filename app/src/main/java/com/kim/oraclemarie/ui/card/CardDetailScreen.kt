@@ -83,7 +83,7 @@ fun CardDetailScreen(
     StarryBackground {
         Column(modifier = Modifier.fillMaxSize()) {
             TopAppBar(
-                title = { Text("Carte de l'Oracle", color = SacredGold) },
+                title = { Text(stringResource(R.string.card_detail_title), color = SacredGold) },
                 navigationIcon = {
                     IconButton(onClick = onNavigateUp) {
                         Icon(

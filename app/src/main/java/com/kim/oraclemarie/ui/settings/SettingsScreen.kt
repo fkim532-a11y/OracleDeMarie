@@ -409,7 +409,10 @@ private fun AboutCard() {
                 textAlign = TextAlign.Center
             )
             Text(
-                text = stringResource(R.string.settings_version),
+                text = stringResource(
+                    R.string.settings_version,
+                    context.packageManager.getPackageInfo(context.packageName, 0).versionName ?: ""
+                ),
                 style = MaterialTheme.typography.bodySmall,
                 color = SoftWhite.copy(alpha = 0.4f)
             )

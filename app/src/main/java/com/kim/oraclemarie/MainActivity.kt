@@ -1,7 +1,6 @@
 package com.kim.oraclemarie
 
 import android.content.Context
-import android.content.res.Configuration
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -12,18 +11,11 @@ import androidx.core.view.WindowInsetsControllerCompat
 import com.kim.oraclemarie.navigation.AppNavigation
 import com.kim.oraclemarie.notification.createNotificationChannel
 import com.kim.oraclemarie.ui.theme.MarieTheme
-import java.util.Locale
 
 class MainActivity : ComponentActivity() {
 
     override fun attachBaseContext(newBase: Context) {
-        val prefs = newBase.getSharedPreferences("oracle_settings", Context.MODE_PRIVATE)
-        val lang = prefs.getString("language", "fr") ?: "fr"
-        val locale = Locale.forLanguageTag(lang)
-        Locale.setDefault(locale)
-        val config = Configuration(newBase.resources.configuration)
-        config.setLocale(locale)
-        super.attachBaseContext(newBase.createConfigurationContext(config))
+        super.attachBaseContext(localizedContext(newBase))
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {

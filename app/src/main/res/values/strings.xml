@@ -121,7 +121,7 @@
     <string name="settings_lang_fr">Français</string>
     <string name="settings_lang_en">English</string>
     <string name="settings_about_section">À propos</string>
-    <string name="settings_version">Version 1.0</string>
+    <string name="settings_version">Version %1$s</string>
     <string name="settings_about_desc">33 cartes de guidance inspirées de la dévotion mariale. Chaque tirage vous invite à accueillir la sagesse de Marie dans votre quotidien.</string>
     <string name="settings_about_heart">Cette application a été réalisée avec amour et dévouement. Elle n\'est peut-être pas parfaite — mais chaque prière, chaque carte, chaque mot a été choisi avec soin et sincérité. Merci pour votre compréhension et votre bienveillance. ✦</string>
     <string name="settings_privacy">Politique de confidentialité</string>
@@ -152,4 +152,23 @@
         <item>Marie a un message pour vous aujourd\'hui</item>
         <item>Un moment de sérénité vous attend ✦</item>
     </string-array>
+
+    <!-- Version 1.3.4 : textes sortis du code et thèmes des prières -->
+    <string name="journal_title">Mon Journal</string>
+    <string name="card_detail_title">Carte de l\'Oracle</string>
+    <string name="loading_cards">Chargement des cartes…</string>
+    <string name="prayer_theme_abandon_confiance">Abandon &amp; Confiance</string>
+    <string name="prayer_theme_abandon_paix">Abandon &amp; Paix Finale</string>
+    <string name="prayer_theme_accueil_protection">Accueil &amp; Protection</string>
+    <string name="prayer_theme_amour_grace">Amour Divin &amp; Grâce</string>
+    <string name="prayer_theme_famille_liens">Famille &amp; Liens</string>
+    <string name="prayer_theme_guerison_sante">Guérison &amp; Santé</string>
+    <string name="prayer_theme_meditation">Méditation &amp; Contemplation</string>
+    <string name="prayer_theme_paix_serenite">Paix &amp; Sérénité</string>
+    <string name="prayer_theme_pardon">Pardon &amp; Libération</string>
+    <string name="prayer_theme_protection_guidance">Protection &amp; Guidance</string>
+    <string name="prayer_theme_presence">Présence &amp; Instant</string>
+    <string name="prayer_theme_secours">Secours &amp; Intercession</string>
+    <string name="prayer_theme_soir_repos">Soir &amp; Repos</string>
+    <string name="prayer_theme_vocation">Vocation &amp; Chemin de vie</string>
 </resources>

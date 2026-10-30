@@ -140,7 +140,7 @@ fun HomeScreen(
                 ) {
                     CircularProgressIndicator(color = SacredGold)
                     Spacer(Modifier.height(16.dp))
-                    Text("Chargement des cartes...", color = SoftWhite)
+                    Text(stringResource(R.string.loading_cards), color = SoftWhite)
                 }
             }
         }

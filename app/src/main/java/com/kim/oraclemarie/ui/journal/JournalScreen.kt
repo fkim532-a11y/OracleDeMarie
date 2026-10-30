@@ -138,7 +138,7 @@ fun JournalScreen(
                         item {
                             Column(horizontalAlignment = Alignment.CenterHorizontally, modifier = Modifier.fillMaxWidth()) {
                                 Spacer(Modifier.height(32.dp))
-                                Text("Mon Journal", style = MaterialTheme.typography.headlineSmall, color = SacredGold, textAlign = TextAlign.Center)
+                                Text(stringResource(R.string.journal_title), style = MaterialTheme.typography.headlineSmall, color = SacredGold, textAlign = TextAlign.Center)
                                 Spacer(Modifier.height(8.dp))
                             }
                         }

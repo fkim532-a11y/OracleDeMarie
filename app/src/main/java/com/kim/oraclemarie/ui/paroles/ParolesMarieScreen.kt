@@ -225,7 +225,7 @@ private fun QuoteContent(quote: MarieQuote, entryStep: Int) {
         Spacer(Modifier.height(32.dp))
 
         Text(
-            text = "« ${quote.localeText} »",
+            text = quote.localeText,
             style = MaterialTheme.typography.titleLarge.copy(fontStyle = FontStyle.Italic),
             color = SoftWhite,
             textAlign = TextAlign.Center,
